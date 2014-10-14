@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    			xmlns:app="http://schemas.android.com/apk/it.gmariotti.android.example.colorpicker">
+	
+    <ListPreference 
+      android:title="Select Background Color"
+      android:summary="Select colors from the list"  
+      android:key="listPref2"
+      android:entries="@array/listDisplayColor2"
+      android:entryValues="@array/listReturnValue2"
+        />
+    	
+  <ListPreference
+  android:title="Select Font Color"
+  android:summary="Select colors from the list"
+  android:key="listPref"
+  android:entries="@array/listDisplayColor"
+  android:entryValues="@array/listReturnValue" />
+
+    	   
+<PreferenceScreen
+        android:key="button_events/modify_category"
+        android:title="Add Events"
+        android:persistent="false">	
+   <PreferenceCategory
+   android:summary="Events"
+   android:title="Event-1 details:" >   
+   
+   <EditTextPreference android:key="date"
+		android:title="Enter Date:"
+		android:hint="Enter date e.g. Sep 05" />
+   <EditTextPreference android:key="time"
+		android:title="Enter Time:"
+		android:hint="Enter 24-format e.g. 13:30" />
+	<EditTextPreference android:key="text"
+		android:title="Enter Event:"
+		android:hint="Only 18 characters allowed." />
+	
+    </PreferenceCategory>
+    
+   <PreferenceCategory
+   android:summary="Events"
+   android:title="Event-2 details:" >   
+   
+ <EditTextPreference android:key="date2"
+		android:title="Enter Date:"
+		android:hint="Enter date e.g. Sep 05" />
+   <EditTextPreference android:key="time2"
+		android:title="Enter Time:"
+		android:hint="Enter 24-format e.g. 13:30" />
+	<EditTextPreference android:key="text2"
+		android:title="Enter Event:"
+		android:hint="Only 18 characters allowed." />
+	
+    </PreferenceCategory>
+    
+   <PreferenceCategory
+   android:summary="Events"
+   android:title="Event-3 details:" >   
+   
+   <EditTextPreference android:key="date3"
+		android:title="Enter Date:"
+		android:hint="Enter date e.g. Sep 05" />
+   <EditTextPreference android:key="time3"
+		android:title="Enter Time:"
+		android:hint="Enter 24-format e.g. 13:30" />
+	<EditTextPreference android:key="text3"
+		android:title="Enter Event:"
+		android:hint="Only 18 characters allowed." />
+	
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+   android:summary="Events"
+   android:title="Event-4 details:" >   
+   
+   <EditTextPreference android:key="date4"
+		android:title="Enter Date:"
+		android:hint="Enter date e.g. Sep 05" />
+   <EditTextPreference android:key="time4"
+		android:title="Enter Time:"
+		android:hint="Enter 24-format e.g. 13:30" />
+	<EditTextPreference android:key="text4"
+		android:title="Enter Event:"
+		android:hint="Only 18 characters allowed." />
+	
+    </PreferenceCategory>
+    
+     <PreferenceCategory
+   android:summary="Events"
+   android:title="Event-5 details:" >   
+   
+   <EditTextPreference android:key="date5"
+		android:title="Enter Date:"
+		android:hint="Enter date e.g. Sep 05" />
+   <EditTextPreference android:key="time5"
+		android:title="Enter Time:"
+		android:hint="Enter 24-format e.g. 13:30" />
+	<EditTextPreference android:key="text5"
+		android:title="Enter Event:"
+		android:hint="Only 18 characters allowed." />
+	
+    </PreferenceCategory>
+    	
+</PreferenceScreen>
+
+<PreferenceScreen
+        android:key="button_events/modify_category"
+        android:title="Add Quotes"
+        android:persistent="false" >	
+        
+    <EditTextPreference android:key="quotes"
+		android:title="Enter Quotes:"
+		android:hint="Only 30 characters allowed." />
+</PreferenceScreen>
+</PreferenceScreen>

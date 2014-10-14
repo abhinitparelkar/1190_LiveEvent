@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="listDisplayColor">
+ <item>Red</item>
+ <item>Black</item>
+ <item>Blue</item>
+ <item>Grey</item>
+ <item>White</item>
+</string-array>
+<string-array name="listReturnValue">
+ <item>#FF0000</item>
+ <item>#000000</item>
+ <item>#58FAF4</item>
+ <item>#848484</item>
+ <item>#FFFFFF</item>
+</string-array>
+
+<string-array name="listDisplayColor2">
+ <item>Yellow</item>
+ <item>Orange</item>
+ <item>Black</item>
+ <item>Green</item>
+ <item>White</item>
+</string-array>
+<string-array name="listReturnValue2">
+ <item>#F4FA58</item>
+ <item>#FA8258</item>
+ <item>#000000</item>
+ <item>#58FA82</item>
+ <item>#F2F2F2</item>
+</string-array>
+</resources>

@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Free fonts - Free download fonts</title>
+<meta name="description" content="Download all free font for you." />
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dokv=88e434a982/"},atok:"39dcef800868813e315609f91f1a37d0",petok:"b82e18261e587fbb0749292209fbff1a60f1cf5e-1409326126-1800",zone:"font2s.com",rocket:"0",apps:0}];CloudFlare.push({"apps":{"ape":"e7f5ca0a295e799f2048d4f1744abb72"}});!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dokv=97fb4d042e/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<script src="http://font2s.com/plugins/sociallocker/js/libs/jquery.min.js"></script>
+<script src="http://font2s.com/plugins/sociallocker/js/libs/jquery.ui.highlight.min.js"></script>
+<script src="http://font2s.com/plugins/sociallocker/js/jquery.onp.sociallocker.1.5.9.min.js"></script>
+<link type="text/css" rel="stylesheet" href="http://font2s.com/plugins/sociallocker/css/jquery.onp.sociallocker.1.5.9.min.css" />
+<style type="text/css">
+.btn-blue {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:130px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.btn-blue:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.btn-blue:active {
+	position:relative;
+	top:1px;
+}</style>
+<script>
+// -
+// Notice: read the documentation that comes with the plugins to get more details 
+
+// IMPORTANT: this is an obligatory wrapper, it runs after loading a page
+jQuery(document).ready(function ($) {
+	
+	$("#sociallocker .to-lock").sociallocker({
+
+		theme: "starter",
+		
+		//demo: true,
+		
+		effects: { 
+			highlight: false,
+			flip: false
+		},
+		
+		locker: {
+			close: false,
+			timer: 90,
+			mobile: false,
+			useCookies: false
+		},
+		
+		text: { 
+			header: "DOWNLOAD <font color='red'>HelveticaNeue-UltraLight</font> FONT", 
+			//message: "Click a social icon to see the download link." 
+			message: "To see the download link, click one of the social buttons below. <br>Thank you for your support and love."
+		},
+		
+		buttons: {
+                order: [
+                    "facebook-like", "facebook-share", "google-plus", "twitter-tweet", "linkedin-share"
+                ]
+            },
+            
+            facebook: {
+
+                appId: "1467956113434432",
+                
+                like: {
+                    title: 'like me',
+                    url: "https://www.facebook.com/font2s"
+                },
+                share: {
+                    title: 'share it',
+                    url: "http://font2s.com/fonts/55062/helveticaneue_ultralight.html"
+                }
+            },
+            
+            twitter: {
+                
+                tweet: {
+                    title: "tweet me",
+                    text: 'Tweet this message',
+                    url: "http://font2s.com/fonts/55062/helveticaneue_ultralight.html"
+                }
+            },
+            
+            google: {
+                
+                plus: {
+                    title: 'plus 1',
+                    url: "http://font2s.com/fonts/55062/helveticaneue_ultralight.html"
+                },
+                share: {
+                    title: 'or share',
+                    url: "http://font2s.com/fonts/55062/helveticaneue_ultralight.html"
+                }
+            },
+			
+			linkedin: { share: { url: "http://font2s.com/fonts/55062/helveticaneue_ultralight.html", } }
+	});
+	
+});
+</script>
+
+<script>
+function check_frame() {
+     if( top === self ) { 
+          location.href = "http://font2s.com/fonts/55062/helveticaneue_ultralight.html";
+     }
+}
+</script>
+  
+</head>
+
+<body onLoad="check_frame()">
+
+<div class="wrap"> 
+    
+    <article id="sociallocker">
+        
+        <div class="to-lock onp-sociallocker" style="display: block;">
+           <!-- if the option close set to true --> 
+           <div class="onp-sociallocker-outer-wrap">
+              <div class="onp-sociallocker-inner-wrap">
+                 <div class="onp-sociallocker-text">
+                 	<div class="onp-sociallocker-strong">DOWNLOAD <font color="red">HelveticaNeue-UltraLight</font> FONT</div>
+                    <br><br>
+                 	<a href="http://font2s.com/d/55062/53ec889f783875e92b7aa28096cfa096/helveticaneue_ultralight.zip" class="btn-blue">DOWNLOAD</a>
+                    <br>
+                    <em>Thank you for downloading!</em>
+                 </div>
+                 <div class="onp-sociallocker-buttons">
+                    <!-- social buttons start here --> 
+                    <div class="onp-sociallocker-button-<buttonName> [onp-sociallocker-flip]">
+                       <div class="onp-sociallocker-button-inner-wrap">
+                          <!-- social iframe button here --> 
+                          <div class="onp-sociallocker-button-overlay"></div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
+           <!-- if the option timer set to the value > 0 --> 
+           <div class="onp-sociallocker-timer"></div>
+        </div>
+
+	</article>
+
+        
+  </div>
+
+</body>
+</html>
